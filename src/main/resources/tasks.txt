@@ -1,0 +1,5 @@
+replaceAll ${USERPROFILE}\proxy.pac ${old-password} ${new-password}
+replaceAll ${USERPROFILE}\.gradle\gradle.properties ${old-password} ${new-password}
+replaceAll ${USERPROFILE}\.m2\settings.xml ${old-password} ${new-password}
+replaceAll ${USERPROFILE}\.gitconfig ${old-password} ${new-password}
+replaceAll ${USERPROFILE}\.npmrc ${old-password} ${new-password}
